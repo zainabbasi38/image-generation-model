@@ -14,5 +14,7 @@ A simple and interactive Streamlit app that uses **Google's Gemini API** to gene
 2. **Install dependencies**:
 
 ## RUn the command 
-```streamlit run app.py
 ```
+streamlit run app.py
+```
+
